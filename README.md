@@ -28,7 +28,7 @@ This is a frontend-only project that was built using the following technologies:
 
 To use this project management system, you can either download the code and run it locally or access the live version by visiting the following link:
 
-[Live Demo](https://your-project-management-system-url.com)
+[Live Demo](https://timi-project-management-ui.netlify.app/)
 
 From there, you can view your projects, deadlines, upcoming projects, analytics, and client reviews.
 
